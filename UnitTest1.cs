@@ -6,8 +6,9 @@ namespace MyTestProject
     public class UnitTest1
     {
         [Fact]
-        public void Test1()
+        public void Test1(int i = 0)
         {
+            // Modification in code
 
         }
 
